@@ -10,7 +10,7 @@ Resources I used
 
 * Tkinter
 * https://www.youtube.com/watch?v=k\_ToCC4-pe8
-* https://www.pythonguis.com/tutorials/tkinter-basic-widgets/
+* https://www.pythonguis.com/tutorials/create-gui-tkinter/
 
 
 
