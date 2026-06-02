@@ -1,6 +1,6 @@
 Email Memorizer
 
-
+**Unable to do anything right now other than present a blank window**
 
 Email Memorizer is a program which allows you to read all the emails from your Gmail alt accounts in one place.
 
