@@ -12,6 +12,7 @@ Resources I used
 * https://www.youtube.com/watch?v=k\_ToCC4-pe8
 * https://www.pythonguis.com/tutorials/create-gui-tkinter/
 * https://tkdocs.com/tutorial/widgets.html
+* https://www.geeksforgeeks.org/python/creating-tabbed-widget-with-python-tkinter/
 
 
 
