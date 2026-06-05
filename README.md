@@ -13,6 +13,7 @@ Resources I used
 * https://www.pythonguis.com/tutorials/create-gui-tkinter/
 * https://tkdocs.com/tutorial/widgets.html
 * https://www.geeksforgeeks.org/python/creating-tabbed-widget-with-python-tkinter/
+* https://stackoverflow.com/questions/7546050/switch-between-two-frames-in-tkinter
 
 
 
